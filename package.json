@@ -1,0 +1,14 @@
+{
+  "name": "microfin",
+  "version": "0.0.1",
+  "description": "Test Microfinance application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexand Kopylov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
